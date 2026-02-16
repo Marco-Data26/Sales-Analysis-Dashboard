@@ -14,7 +14,7 @@ This dashboard help visualize sales performance and trends across different stat
 
 **Data Cleaning & Analysis** - Power Query & Pivot Table
 
-**Data Source** - [Dataset](Adidas Dataset.xlsx)
+**Data Source** - ([Adidas Dataset.xlsx](Adidas%20Dataset.xlsx))
 
 **Data Visualization** - Excel
 
