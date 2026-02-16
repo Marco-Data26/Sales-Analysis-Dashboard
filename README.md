@@ -25,7 +25,7 @@ The company observed a substantial decline in sales during 2020 compared to 2021
 ## Root Causes
 
 - Only 9 states were active in 2020, compared to 46 states in 2021.
-- A key factor was the low emphasis on the online sales channel, which only contributed 18% of revenue, while in 2021, it surged to 42%.
+- A key factor was the low emphasis on the online sales channel, which only contributed 18% of revenue (4.5$M), while in 2021, it surged to 42% (40.4$M).
 - Unexpected disruptions in the global economic environment in 2020, which led to a decline in demend and a drop in revenues across many markets.
 - Marketing campaigns were not expanded to new regions in 2020.
 
