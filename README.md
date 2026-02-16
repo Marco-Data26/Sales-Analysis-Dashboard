@@ -8,13 +8,13 @@ Interactive sales dashboard for Adidas products using Excel with pivot tables an
 
 This dashboard help visualize sales performance and trends across different sales channels and products for male and female.
 
-## Data Used
+## Data & Tools Used
 
 **Data** - Sales Data with over 9600 rows in 2020 & 2021.
 
-**Data Cleaning & Analysis** - Power Query & Pivot Table
-
 **Data Source** - ([Adidas Dataset.xlsx](Adidas%20Dataset.xlsx))
+
+**Data Cleaning & Analysis** - Power Query & Pivot Table
 
 **Data Visualization** - Excel
 
@@ -24,9 +24,15 @@ The company observed a substantial decline in sales during 2020 compared to 2021
 
 ## Root Causes
 
-- Only 9 States were active in 2020, compared to 46 states in 2021.
+- Only 9 states were active in 2020, compared to 46 states in 2021.
+- A key factor was the low emphasis on the online sales channel, which only contributed 18% of revenue, while in 2021, it surged to 42%.
 - Unexpected disruptions in the global economic environment in 2020, which led to a decline in demend and a drop in revenues across many markets.
 - Marketing campaigns were not expanded to new regions in 2020.
 
  ## Key Insights
-
+ 
+- Revenue and sales volume in 2021 both increased about four times compared to 2020 from 24$M to 96$M, and from 0.5M to 2M units.  
+- Street Footwear was the largest contributor, generating about 45$M out of 120$M in revenue (37.4%), with about 1M units sold, and male buyers contributed 62% of that revenue.
+- New York, California and Florida were the top states, contributing about 25$M, or about 21% of total revenue.
+- In 2021, July was the top month at 10.4$M , while March was the lowest at 5.2$M. In 2020 April led with 3.2$M, and December was the lowest at 1.1$M.
+- For regions, the West was the highest revenue at 36.4$M , while the Midwest was the lowest at 16.7$M.
