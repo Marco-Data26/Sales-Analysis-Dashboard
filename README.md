@@ -4,15 +4,17 @@
 
 ## Description
 
-Interactive sales dashboard using Excel with pivot tables and slicers.
+Interactive sales dashboard for Adidas products using Excel with pivot tables and slicers.
 
-This dashboard help visualize sales performance and trends for Adidas products across different states, regions and retailers for male and female.
+This dashboard help visualize sales performance and trends across different states, regions and retailers for male and female.
 
 ## Data Used
 
 **Data** - Sales Data with over 9600 rows in 2020 & 2021.
 
 **Data Cleaning & Analysis** - Power Query & Pivot Table
+
+**Data Source** - Power Query & Pivot Table
 
 **Data Visualization** - Excel
 
