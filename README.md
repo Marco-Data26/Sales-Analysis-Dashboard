@@ -18,7 +18,15 @@ This dashboard help visualize sales performance and trends across different sale
 
 **Data Visualization** - Excel
 
-##
+## Problem
 
-## Summary of Findings
+The company observed a substantial decline in sales during 2020 compared to 2021. The company wanted to understand the factors that caused this dramatic drop in 2020 so they could pinpoint the root cause and take action to recover and grow in the future. 
+
+## Root Causes
+
+- Only 9 States were active in 2020, compared to 46 states in 2021.
+- Unexpected disruptions in the global economic environment in 2020, which led to a decline in demend and a drop in revenues across many markets.
+- Marketing campaigns were not expanded to new regions in 2020.
+
+ ## Key Insights
 
