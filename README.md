@@ -36,3 +36,8 @@ The company observed a substantial decline in sales during 2020 compared to 2021
 - New York, California and Florida were the top states, contributing about 25$M, or about 21% of total revenue.
 - In 2021, July was the top month at 10.4$M , while March was the lowest at 5.2$M. In 2020 April led with 3.2$M, and December was the lowest at 1.1$M.
 - For regions, the West was the highest revenue at 36.4$M , while the Midwest was the lowest at 16.7$M.
+
+## Recommendations
+
+- We need to focus more on the online sales channel, as it currently contributes the largest share of revenue, and we plan to achieve 50% next year.
+- In the South region, in-store sales were just 0.3$M, significantly lower than other regions, as only one state, Louisiana, out of the seven states was active. We need to expand efforts in the other states by identifying potential locations, partnering with local businesses and launching targeted marketing campaigns to foot traffic to boost in-store sales in this region.
