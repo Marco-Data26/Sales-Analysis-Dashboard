@@ -39,7 +39,7 @@ The company experienced a significant revenue drop in 2020 compared to 2021 and 
 
 ## Recommendations
 
-- We should focus on the states that generate the most revenue, like New York, California and Florida, to sustain growth and increase it over time.
-- We need to focus more on the online sales channel, as it currently contributes the largest share of revenue by increase investment in targeted digital marketing and improve the website user experience, like load speed and navigation, we plan to achieve 50% next year.
+- Focus on the top revenue-gnerating states like New York, California and Florida to sustain and grow revenue over time.
+- Focus on the online sales channel, as it currently contributes the largest share of revenue by increase investment in targeted digital marketing and improving website user experience, such as load speed and navigation, we plan to achieve 50% next year.
 - In the South region, in-store sales were just $0.3M, significantly lower than other regions, as only one state, Louisiana, out of the seven states was active. We need to expand efforts in the other states by identifying potential locations, partnering with local businesses and launching targeted marketing campaigns to increase foot traffic to boost in-store sales in this region.
 - January has the highest outlet sales each year, so we should plan early promotions, stock up, and start marketing in advance to make the most of this peak month.
