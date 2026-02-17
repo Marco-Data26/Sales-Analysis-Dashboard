@@ -33,7 +33,7 @@ The company experienced a significant revenue drop in 2020 compared to 2021 and 
  
 - Revenue and sales volume in 2021 both increased about four times compared to 2020 from $24M in 2020 to $96M in 2021, and from 0.5M (2020) to 2M units (2021).
 - New York, California and Florida were the top states, contributing about $25M, or about 21% of total revenue.
-- Street Footwear was the largest contributor, generating about $45M out of $120M in revenue (37.4%), with about 1M units sold, and male buyers contributed 62% of that revenue.
+- Street Footwear was the largest contributor, generating about $45M (37.4% of total revenue), with about 1M units sold, and male buyers contributed 62% of that revenue.
 - In 2021, July was the top month at $10.4M , while March was the lowest at $5.2M. In 2020 April led with $3.2M, and December was the lowest at $1.1M.
 - For regions, the West was the highest revenue at $36.4M , while the Midwest was the lowest at $16.7M.
 
