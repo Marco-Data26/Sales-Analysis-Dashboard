@@ -39,5 +39,7 @@ The company observed a substantial decline in sales during 2020 compared to 2021
 
 ## Recommendations
 
+- New York, California, Florida, Texas and South Carolina need more focus, as they contributed 29.4% to revenue out of 50 states.
 - We need to focus more on the online sales channel, as it currently contributes the largest share of revenue, and we plan to achieve 50% next year.
 - In the South region, in-store sales were just 0.3$M, significantly lower than other regions, as only one state, Louisiana, out of the seven states was active. We need to expand efforts in the other states by identifying potential locations, partnering with local businesses and launching targeted marketing campaigns to foot traffic to boost in-store sales in this region.
+- January has the highest outlet sales each year, so we should plan early promotions, stock up, and start marketing in advance to make the most of this peak month.
