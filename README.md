@@ -1,6 +1,5 @@
 # Sales-Analysis-Dashboard
-![Dashboard Image](Sales_Adidas_Excel.png)
-![Dashboard Gifs](Adidas_Sales_Excel-p1.gif)
+
 
 ## Description
 
