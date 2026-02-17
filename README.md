@@ -20,7 +20,7 @@ This dashboard helps visualize sales performance and trends across different sal
 
 ## Problem
 
-The company experienced a significant revenue drop in 2020 compared to 2021 and wanted to identify the key drivers behind this decline. 
+The company experienced a significant revenue drop in 2020 compared to 2021 and wanted to identify the key drivers behind this decline and provide strategic recommendations to help revenue recovery and future growth. 
 
 ## Root Causes
 
