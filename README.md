@@ -10,7 +10,7 @@ This dashboard helps visualize sales performance and trends across different sal
 
 ## Data & Tools Used
 
-**Data** - Sales Data with over 9600 rows in 2020 & 2021.
+**Data** - Sales Data containing over 9600 records across 2020 and 2021.
 
 **Data Source** - ([Adidas Dataset.xlsx](Adidas%20Dataset.xlsx))
 
