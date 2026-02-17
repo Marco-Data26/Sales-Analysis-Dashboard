@@ -6,7 +6,7 @@
 
 Interactive sales dashboard for Adidas products using Excel with pivot tables and slicers.
 
-This dashboard help visualize sales performance and trends across different sales channels and products for male and female.
+This dashboard helps visualize sales performance and trends across different sales channels and products for male and female customers.
 
 ## Data & Tools Used
 
@@ -20,7 +20,7 @@ This dashboard help visualize sales performance and trends across different sale
 
 ## Problem
 
-The company observed a substantial decline in sales during 2020 compared to 2021. The company wanted to understand the factors that caused this dramatic drop in 2020 so they could pinpoint the root cause and take action to recover and grow in the future. 
+The company experienced a significant revenue drop in 2020 compared to 2021 and wanted to identify the key drivers behind this decline. 
 
 ## Root Causes
 
