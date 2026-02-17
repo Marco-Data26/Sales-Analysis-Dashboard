@@ -20,7 +20,7 @@ This dashboard helps visualize sales performance and trends across different sal
 
 ## Objective
 
-The company experienced a significant revenue drop in 2020 compared to 2021 and wanted to identify the key drivers behind this decline providing strategic recommendations to aid in revenue recovery and future growth. 
+The company experienced a significant revenue drop in 2020 compared to 2021 and wanted to identify the key drivers behind this decline while providing strategic recommendations to support revenue recovery and future growth. 
 
 ## Root Causes
 
@@ -41,6 +41,6 @@ The company experienced a significant revenue drop in 2020 compared to 2021 and 
 
 - Focus on the top revenue-generating states like New York, California and Florida to sustain and accelerate revenue growth.
 - Focus on Street Footwear by increasing marketing efforts and expanding promotions specifically targeting male customers since they drove 63% of its revenue in 2021.
-- Focus on the online sales channel, as it currently contributes the largest share of revenue. Increase investment in targeted digital marketing and improve website user experience, such as load speed and navigation to reach a 50% revenue contribution next year.
-- In the South region, in-store sales were just $0.3M, significantly lower than other regions, as only one state, Louisiana, out of the seven states was active. We need to expand efforts in the other states by identifying potential locations, partnering with local businesses and launching targeted marketing campaigns to increase foot traffic and boost in-store sales in this region.
+- Focus on the online sales channel, as it currently contributes the largest share of revenue. Increase investment in targeted digital marketing and improve website user experience, such as load speed and navigation, to reach a 50% revenue contribution next year.
+- In the South region, in-store sales were just $0.3M, significantly lower than other regions, as only one state, Louisiana, out of the seven states was active. Expand efforts in the other states by identifying potential locations, partnering with local businesses and launching targeted marketing campaigns to increase foot traffic and boost in-store sales in this region.
 - January has the highest outlet sales each year, so we should plan early promotions, stock up, and start marketing in advance to make the most of this peak month.
