@@ -25,21 +25,21 @@ The company observed a substantial decline in sales during 2020 compared to 2021
 ## Root Causes
 
 - Only 9 states were active in 2020, compared to 46 states in 2021.
-- A key factor was the low emphasis on the online sales channel, which only contributed 18% of revenue (4.5$M), while in 2021, it surged to 42% (40.4$M).
+- A key factor was the low emphasis on the online sales channel, which only contributed 18% of revenue ($4.5M), while in 2021, it surged to 42% ($40.4M).
 - Marketing campaigns were not expanded to new regions in 2020.
-- Unexpected disruptions in the global economic environment in 2020, which led to a decline in demend and a drop in revenues across many markets.
+- External economic challenges in 2020, such as market instability and reduced consumer demand, also played a significant role in the revenue decline.
 
  ## Key Insights
  
-- Revenue and sales volume in 2021 both increased about four times compared to 2020 from 24$M to 96$M, and from 0.5M to 2M units.  
-- Street Footwear was the largest contributor, generating about 45$M out of 120$M in revenue (37.4%), with about 1M units sold, and male buyers contributed 62% of that revenue.
-- New York, California and Florida were the top states, contributing about 25$M, or about 21% of total revenue.
-- In 2021, July was the top month at 10.4$M , while March was the lowest at 5.2$M. In 2020 April led with 3.2$M, and December was the lowest at 1.1$M.
-- For regions, the West was the highest revenue at 36.4$M , while the Midwest was the lowest at 16.7$M.
+- Revenue and sales volume in 2021 both increased about four times compared to 2020 from $24M in 2020 to $96M in 2021, and from 0.5M (2020) to 2M units (2021).
+- New York, California and Florida were the top states, contributing about $25M, or about 21% of total revenue.
+- Street Footwear was the largest contributor, generating about $45M out of $120M in revenue (37.4%), with about 1M units sold, and male buyers contributed 62% of that revenue.
+- In 2021, July was the top month at $10.4M , while March was the lowest at $5.2M. In 2020 April led with $3.2M, and December was the lowest at $1.1M.
+- For regions, the West was the highest revenue at $36.4M , while the Midwest was the lowest at $16.7M.
 
 ## Recommendations
 
-- New York, California, Florida, Texas and South Carolina need more focus, as they contributed 29.4% to revenue out of 50 states.
+- We should focus on the states that generate the most revenue, like New York, California and Florida, to sustain growth and increase it over time.
 - We need to focus more on the online sales channel, as it currently contributes the largest share of revenue, and we plan to achieve 50% next year.
-- In the South region, in-store sales were just 0.3$M, significantly lower than other regions, as only one state, Louisiana, out of the seven states was active. We need to expand efforts in the other states by identifying potential locations, partnering with local businesses and launching targeted marketing campaigns to foot traffic to boost in-store sales in this region.
+- In the South region, in-store sales were just $0.3M, significantly lower than other regions, as only one state, Louisiana, out of the seven states was active. We need to expand efforts in the other states by identifying potential locations, partnering with local businesses and launching targeted marketing campaigns to increase foot traffic to boost in-store sales in this region.
 - January has the highest outlet sales each year, so we should plan early promotions, stock up, and start marketing in advance to make the most of this peak month.
