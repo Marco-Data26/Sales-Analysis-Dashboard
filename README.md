@@ -17,7 +17,7 @@ This dashboard helps visualize sales performance and trends across different sal
 
 **Data Cleaning & Analysis** - Power Query & Pivot Table
 
-**Data Visualization** - Excel (https://github.com/Marco-Data26/Sales-Analysis-Dashboard/blob/main/Adidas_Sales.xlsm)
+**Data Visualization** - Excel (Adidas_Sales.xlsm)
 
 ## Objective
 
