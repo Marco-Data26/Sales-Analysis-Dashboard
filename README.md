@@ -29,6 +29,7 @@ The company experienced a significant revenue drop in 2020 compared to 2021 and 
 - New York, California and Florida were the top states, contributing about $25M, or about 21% of total revenue.
 - Street Footwear was the largest contributor, generating about $45M (37.4% of total revenue), with about 1M units sold, and male buyers contributed 62% of that revenue.
 - In 2021, July was the top month at $10.4M, while March was the lowest at $5.2M. In 2020 April led with $3.2M, and December was the lowest at $1.1M.
+- Online sales channel contributes the largest share of revenue among sales channels about $45M (37.4% of total revenue).
 - For regions, the West was the highest revenue at $36.4M, while the Midwest was the lowest at $16.7M.
 - In the South region, in-store sales were just $0.3M, significantly lower than other regions, as only one state, Louisiana, out of the seven states was active.
 - January has the highest outlet sales each year.
@@ -44,6 +45,6 @@ The company experienced a significant revenue drop in 2020 compared to 2021 and 
 
 - Focus on the top revenue-generating states like New York, California and Florida to sustain and accelerate revenue growth.
 - Focus on Street Footwear by increasing marketing efforts and expanding promotions specifically targeting male customers.
-- Focus on the online sales channel, as it currently contributes the largest share of revenue. Increase investment in targeted digital marketing and improve website user experience, such as load speed and navigation, to reach a 50% revenue contribution next year.
+- Focus on the online sales channel by Increasing investment in targeted digital marketing and improving website user experience, such as load speed and navigation, to reach a 50% revenue contribution next year.
 - Expand efforts in the South region by identifying potential locations, partnering with local businesses and launching targeted marketing campaigns to increase foot traffic and boost in-store sales in this region.
 - Plan early promotions, stock up, and start marketing in advance to make the most of January revenue.
