@@ -43,7 +43,7 @@ The company experienced a significant revenue drop in 2020 compared to 2021 and 
 ## Recommendations
 
 - Focus on the top revenue-generating states like New York, California and Florida to sustain and accelerate revenue growth.
-- Focus on Street Footwear by increasing marketing efforts and expanding promotions specifically targeting male customers since they drove 63% of its revenue in 2021.
+- Focus on Street Footwear by increasing marketing efforts and expanding promotions specifically targeting male customers.
 - Focus on the online sales channel, as it currently contributes the largest share of revenue. Increase investment in targeted digital marketing and improve website user experience, such as load speed and navigation, to reach a 50% revenue contribution next year.
 - Expand efforts in the South region by identifying potential locations, partnering with local businesses and launching targeted marketing campaigns to increase foot traffic and boost in-store sales in this region.
-- Make plan early promotions, stock up, and start marketing in advance to make the most of January month.
+- Plan early promotions, stock up, and start marketing in advance to make the most of January revenue.
