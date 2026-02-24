@@ -33,10 +33,10 @@ The company experienced a significant revenue drop in 2020 compared to 2021 and 
 
 ## Root Causes
 
-- Only 9 states were active in 2020, compared to 46 states in 2021.
-- A key factor was the low emphasis on the online sales channel, which only contributed 18% of revenue ($4.5M), while in 2021, it surged to 42% ($40.4M).
-- Marketing campaigns were not expanded to new regions in 2020.
-- External economic challenges in 2020, such as market instability and reduced consumer demand, also played a significant role in the revenue decline.
+- Geographic Coverage: Only 9 states were active in 2020, compared to 46 states in 2021.
+- Sales Channel: Low emphasis on the online channel in 2020, contributing just 18% of revenue ($4.5M), Compared to 42% ($40.4M) in 2021.
+- Marketing : Limited marketing campaigns to new regions in 2020.
+- Economic Factors: External challenges, such as market instability and reduced consumer demand in 2020, significantly impacted revenue.
   
 ## Recommendations
 
