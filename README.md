@@ -23,14 +23,7 @@ This dashboard helps visualize sales performance and trends across different sal
 
 The company experienced a significant revenue drop in 2020 compared to 2021 and wanted to identify the key drivers behind this decline while providing strategic recommendations to support revenue recovery and future growth. 
 
-## Root Causes
-
-- Only 9 states were active in 2020, compared to 46 states in 2021.
-- A key factor was the low emphasis on the online sales channel, which only contributed 18% of revenue ($4.5M), while in 2021, it surged to 42% ($40.4M).
-- Marketing campaigns were not expanded to new regions in 2020.
-- External economic challenges in 2020, such as market instability and reduced consumer demand, also played a significant role in the revenue decline.
-
- ## Key Insights
+## Key Insights
  
 - Revenue and sales volume in 2021 both increased about four times compared to 2020 from $24M in 2020 to $96M in 2021, and from 0.5M (2020) to 2M units (2021).
 - New York, California and Florida were the top states, contributing about $25M, or about 21% of total revenue.
@@ -38,6 +31,13 @@ The company experienced a significant revenue drop in 2020 compared to 2021 and 
 - In 2021, July was the top month at $10.4M, while March was the lowest at $5.2M. In 2020 April led with $3.2M, and December was the lowest at $1.1M.
 - For regions, the West was the highest revenue at $36.4M, while the Midwest was the lowest at $16.7M.
 
+## Root Causes
+
+- Only 9 states were active in 2020, compared to 46 states in 2021.
+- A key factor was the low emphasis on the online sales channel, which only contributed 18% of revenue ($4.5M), while in 2021, it surged to 42% ($40.4M).
+- Marketing campaigns were not expanded to new regions in 2020.
+- External economic challenges in 2020, such as market instability and reduced consumer demand, also played a significant role in the revenue decline.
+  
 ## Recommendations
 
 - Focus on the top revenue-generating states like New York, California and Florida to sustain and accelerate revenue growth.
