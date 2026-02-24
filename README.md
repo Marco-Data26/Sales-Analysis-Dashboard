@@ -37,7 +37,7 @@ The company experienced a significant revenue drop in 2020 compared to 2021 and 
 
 - Geographic Coverage: Limited, only 9 states were active in 2020, compared to 46 states in 2021.
 - Sales Channel: Low emphasis on the online channel in 2020, contributing just 18% of revenue ($4.5M), compared to 42% ($40.4M) in 2021.
-- Marketing: Limited marketing campaigns in 2020, especially in new regions, reduced brand exposure.
+- Marketing: Limited marketing campaigns in 2020, especially in new regions reduced brand exposure.
 - Economic Factors: External challenges, such as market instability and reduced consumer demand in 2020, significantly impacted revenue.
   
 ## Recommendations
